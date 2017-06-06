@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">PortaKeys</string>
+    <string name="insert">Insert:</string>
+    <string name="info">Applicazione pensata e creata da me. Per questo è fatta male. Ciao.</string>
+
+    <!--Hint EditText-->
+    <string name="site_ins">Site</string>
+    <string name="username_ins">Username</string>
+    <string name="password_ins">Password</string>
+    <string name="e_mail_ins">E-Mail</string>
+
+    <!--TextView-->
+    <string name="old_password_text">Insert old password</string>
+    <string name="username_item">Username</string>
+    <string name="password_item">Password</string>
+    <string name="e_mail_item">E-Mail</string>
+
+    <!--Buttons-->
+    <string name="add">Add</string>
+    <string name="chose">Chose your password</string>
+    <string name="save">Save</string>
+    <string name="Reset">Reset</string>
+
+    <string name="action_settings">Change Password</string>
+    <string name="change">Change Password</string>
+    <string name="delete">Delete</string>
+    <string name="modify">Modify</string>
+
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome on PortaKeys!</string>
+    <string name="slide_1_desc">Here you can save your personal passwords</string>
+
+    <string name="slide_2_title">Your main password!</string>
+    <string name="slide_2_desc">Start using PortaKey writing your MAIN PASSWORD to accede your future informations</string>
+
+
+
+    <string name="del">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="secure_delete">Are you sure to delete this informations?</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_start"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.simonescaboro.passwords.StartActivity"
+    android:weightSum="1"
+    android:background="@color/background_start">
+    <TextView
+        android:rotation="180"
+        android:id="@+id/counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/new_margin"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"/>
+<include layout="@layout/ovals"></include>
+
+    <TextView
+        android:id="@+id/ctii"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
