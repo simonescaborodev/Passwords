@@ -19,6 +19,7 @@ public class SetFirstActivity extends Activity implements View.OnClickListener {
     private Button mButton3;
     private Button mButton4;
     private TextView insert;
+    private int a;
     private Button reset;
     private Button save;
     String newPassword = "";
